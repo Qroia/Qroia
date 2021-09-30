@@ -1,5 +1,6 @@
 
 ![](landscape-city.gif)
+![my twitter](https://img.shields.io/badge/Twitter-PenIdze__-ff69b4?style=flat-square&logo=twitter&logoColor=ff69b4) ![Telegram](https://img.shields.io/badge/Blog-dwhat__Team-ff69b4?style=flat-square&logo=telegram&logoColor=ff69b4)
 <!--
 **PenIdze/PenIdze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
