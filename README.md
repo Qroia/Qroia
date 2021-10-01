@@ -1,6 +1,6 @@
 
-![](landscape-city.gif)
-![my twitter](https://img.shields.io/badge/Twitter-PenIdze__-ff69b4?style=flat-square&logo=twitter&logoColor=ff69b4) ![Telegram](https://img.shields.io/badge/Blog-dwhat__Team-ff69b4?style=flat-square&logo=telegram&logoColor=ff69b4)
+![](landscape-city.gif)  
+[![my twitter](https://img.shields.io/badge/Twitter-PenIdze__-ff69b4?style=flat-square&logo=twitter&logoColor=ff69b4)](https://twitter.com/PenIdze_) [![Telegram](https://img.shields.io/badge/Blog-dwhat__Team-ff69b4?style=flat-square&logo=telegram&logoColor=ff69b4)](https://t.me/dwhat_team)
 
 17-year-old Russian guy who is actively fond of programming in the field of creating bots, sites and modifications of android applications (Smali).  I really love PenSpinning (IVAN Mod is an inimitable legend) 🖋️
 
@@ -14,22 +14,8 @@
 ### 🗾Language
 Russian (native), English (Not bad) and Japanese (Getting started)
 ### ⚙️ Utility
-GitHub, GitLab...
+GitHub, VS Code, Android Studio, GitLab, VS, AE, Adobe Programs(Photoshop, Premiere, Illustrator, After Effects and Acrobat)
 ### 🔐 Database
 MongoDB, SQLite, MySqL
 ## ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6958295e-f3aa-4108-9372-fdcd0e1952c6/d9t4lto-137f9deb-5e4c-4b64-9038-afc3b1dca533.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5NTgyOTVlLWYzYWEtNDEwOC05MzcyLWZkY2QwZTE5NTJjNlwvZDl0NGx0by0xMzdmOWRlYi01ZTRjLTRiNjQtOTAzOC1hZmMzYjFkY2E1MzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0bUJgrRjRX_u3a32zspTOzNKArHip4ievc4v50i0CjA) **Statistics**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PenIdze&theme=black-ice&background=FF69B4&dates=FFFFFF)](https://git.io/streak-stats)
-<!--
-**PenIdze/PenIdze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
