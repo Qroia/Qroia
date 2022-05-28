@@ -1,3 +1,5 @@
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 
 ![](landscape-city.gif)  
 [![my twitter](https://img.shields.io/badge/Twitter-PenIdze__-ff69b4?style=flat-square&logo=twitter&logoColor=ff69b4)](https://twitter.com/PenIdze_) [![Telegram](https://img.shields.io/badge/Blog-dwhat__Team-ff69b4?style=flat-square&logo=telegram&logoColor=ff69b4)](https://t.me/dwhat_team)
