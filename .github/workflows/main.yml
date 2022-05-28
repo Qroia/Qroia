@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: PenIdze
+          user: Qroia
           template: classic
           base: header, activity, community
           config_timezone: Europe/Moscow
