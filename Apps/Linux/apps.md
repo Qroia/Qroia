@@ -2,6 +2,45 @@
 
 The distribution of your Linux/GNU is not important in this case. All applications can be installed by multiple repositories: snapd, flatpak, pacman, apt or manually built using Git, Python, etc.
 
+- [My Apps for GNU/Linux](#my-apps-for-gnulinux)
+	- [bauh](#bauh)
+	- [bashtop](#bashtop)
+	- [PrettyPing](#prettyping)
+	- [Stacer](#stacer)
+	- [konsole](#konsole)
+	- [nvim](#nvim)
+	- [Docker](#docker)
+	- [Visual Studio Code](#visual-studio-code)
+	- [Postman](#postman)
+	- [Spotify](#spotify)
+	- [Bitwarden(or KeePass)](#bitwardenor-keepass)
+	- [Ferdi](#ferdi)
+	- [Signal](#signal)
+	- [FireFox](#firefox)
+	- [LibreSprite](#libresprite)
+	- [Figma](#figma)
+	- [GIMP](#gimp)
+	- [InkScape](#inkscape)
+	- [Goxel](#goxel)
+	- [Krita](#krita)
+	- [OpenLibraOffice Packet](#openlibraoffice-packet)
+	- [Obsidian](#obsidian)
+	- [Syncthing](#syncthing)
+	- [MongoDB Compass](#mongodb-compass)
+	- [warp-cli (Cloudflare)](#warp-cli-cloudflare)
+	- [Noisy](#noisy)
+	- [ProtonVPN](#protonvpn)
+	- [FileZilla](#filezilla)
+	- [EasySSH](#easyssh)
+	- [Steam](#steam)
+	- [Colopicker](#colopicker)
+	- [OBS Studio](#obs-studio)
+	- [Peek](#peek)
+	- [Solanium](#solanium)
+	- [drawio](#drawio)
+	- [XMind](#xmind)
+	- [Plausible(Google and Yandex Analytics Analogue)](#plausiblegoogle-and-yandex-analytics-analogue)
+
 ## bauh
 
 bauh (ba-oo), formerly known as fpakman, is a graphical interface for managing your Linux software (packages/applications). It currently supports the following formats: AppImage, Debian and Arch Linux packages (including AUR), Flatpak, Snap and Web applications.
@@ -13,6 +52,10 @@ Links: [Home Page](https://github.com/vinifmor/bauh#inst_arch)
 Bashtop now has theme support and a function to download missing local themes from repository. See themes folder for available themes.
 
 Links: [GitHub](https://github.com/aristocratos/bashtop)
+
+## PrettyPing
+
+Beatifully Ping command
 
 ## Stacer
 
@@ -157,7 +200,7 @@ A simple python script that generates random HTTP/DNS traffic noise in the backg
 Tested on MacOS High Sierra, Ubuntu 16.04 and Raspbian Stretch and is compatable with both Python 2.7 and 3.6+
 
 Links: [GitHub](https://github.com/1tayH/noisy)
-Config: ../../configs/noisy
+My fork(ruNoisy): [GitHub](htpps://github.com/Qroia/ruNoisy)
 
 ## ProtonVPN
 
