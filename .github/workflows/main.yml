@@ -9,15 +9,15 @@ jobs:
         steps: 
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
- 		max_post_count: "4"
- 		feed_list: "https://dev.to/feed/qroia"
+              with:
+                max_post_count: "4"
+                feed_list: "https://dev.to/feed/qroia"
             - uses: anmol098/waka-readme-stats@master
-	       with:
- 		WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
-          	GH_TOKEN: ${{ secrets.GH_TOKEN }}
- 		SHOW_PROJECTS: "False"
- 		SHOW_LINES_OF_CODE: "True"
- 		SHOW_TOTAL_CODE_TIME: "True"
- 		SHOW_LANGUAGE_PER_REPO: "False"
- 		SHOW_SHORT_INFO: "False"
+              with:
+                WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
+                GH_TOKEN: ${{ secrets.GH_TOKEN }}
+                SHOW_PROJECTS: "False"
+                SHOW_LINES_OF_CODE: "True"
+                SHOW_TOTAL_CODE_TIME: "True"
+                SHOW_LANGUAGE_PER_REPO: "False"
+                SHOW_SHORT_INFO: "False"
