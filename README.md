@@ -60,6 +60,62 @@
 <h2 align="center"><b>My Stats<h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2015%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-405%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
+🌆 Daytime    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
+🌃 Evening    88 commits     ████████████████████░░░░░   83.02% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
+Tuesday      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
+Wednesday    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+Thursday     26 commits     ██████░░░░░░░░░░░░░░░░░░░   24.53% 
+Friday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
+Saturday     26 commits     ██████░░░░░░░░░░░░░░░░░░░   24.53% 
+Sunday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Markdown                 2 hrs 15 mins       ███████████████░░░░░░░░░░   60.2% 
+JSON                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
+Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
+Lua                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+
+🔥 Editors: 
+VS Code                  3 hrs 41 mins       ████████████████████████░   98.1% 
+Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+
+💻 Operating System: 
+Linux                    3 hrs 45 mins       █████████████████████████   100.0%
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
+
+
+ Last Updated on 17/06/2022 20:17:24 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
