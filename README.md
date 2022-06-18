@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-405%20Thousand%20lines%20of%20code-blue)
 
@@ -95,18 +95,18 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Markdown                 2 hrs 15 mins       ███████████████░░░░░░░░░░   60.2% 
-JSON                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
-Lua                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+Markdown                 1 hr 39 mins        ████████████████████░░░░░   82.95% 
+Lua                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.59% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       ████████████████████████░   98.1% 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+VS Code                  1 hr 55 mins        ████████████████████████░   96.41% 
+Neovim                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.59%
 
 💻 Operating System: 
-Linux                    3 hrs 45 mins       █████████████████████████   100.0%
+Linux                    1 hr 59 mins        █████████████████████████   100.0%
 
 ```
 
@@ -115,7 +115,7 @@ Linux                    3 hrs 45 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 20:17:24 UTC
+ Last Updated on 18/06/2022 18:46:11 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
