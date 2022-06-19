@@ -60,9 +60,9 @@
 <h2 align="center"><b>My Stats<h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-405%20Thousand%20lines%20of%20code-blue)
 
@@ -95,18 +95,13 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Markdown                 1 hr 39 mins        ████████████████████░░░░░   82.95% 
-Lua                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.59% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        ████████████████████████░   96.41% 
-Neovim                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.59%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 59 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,7 +110,7 @@ Linux                    1 hr 59 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/06/2022 18:46:11 UTC
+ Last Updated on 19/06/2022 18:45:30 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
