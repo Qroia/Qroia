@@ -60,7 +60,7 @@
 <h2 align="center"><b>My Stats<h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -95,13 +95,16 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   50 mins             ███████████████████████░░   94.09% 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  54 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +113,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/06/2022 18:45:30 UTC
+ Last Updated on 20/06/2022 18:49:52 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
