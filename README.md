@@ -60,7 +60,7 @@
 <h2 align="center"><b>My Stats<h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -95,16 +95,16 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   54 mins             ███████████████████████░░   94.21% 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+Python                   1 hr 54 mins        ███████████████████████░░   92.91% 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.14% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.0%
+Linux                    2 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +113,7 @@ Linux                    57 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 18:48:24 UTC
+ Last Updated on 22/06/2022 18:52:04 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
