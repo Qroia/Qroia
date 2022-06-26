@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-405%20Thousand%20lines%20of%20code-blue)
 
@@ -113,7 +113,7 @@ Linux                    2 hrs 26 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/06/2022 18:46:14 UTC
+ Last Updated on 26/06/2022 18:46:03 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
