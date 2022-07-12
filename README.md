@@ -3,6 +3,8 @@
 
 ### **Blogs posts**
 <!-- BLOG-POST-LIST:START -->
+- [Codewars Day #1, 5kuy](https://dev.to/qroia/codewars-day-1-5kuy-1jca)
+- [V8 the best](https://dev.to/qroia/v8-the-best-4ca4)
 <!-- BLOG-POST-LIST:END -->
 
 ### **My Configs**
