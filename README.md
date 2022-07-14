@@ -3,6 +3,7 @@
 
 ### **Blogs posts**
 <!-- BLOG-POST-LIST:START -->
+- [Codewars Challenge Day 3: Moving Zeros To The End](https://dev.to/qroia/codewars-challenge-day-3-moving-zeros-to-the-end-297j)
 - [Codewars Challenge Day2: Break camelCase](https://dev.to/qroia/codewars-challenge-day2-break-camelcase-4d3f)
 - [Codewars Day #1, 5kuy](https://dev.to/qroia/codewars-day-1-5kuy-1jca)
 - [V8 the best](https://dev.to/qroia/v8-the-best-4ca4)
