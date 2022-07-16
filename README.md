@@ -3,10 +3,10 @@
 
 ### **Blogs posts**
 <!-- BLOG-POST-LIST:START -->
+- [Codewars Challenge Day 5: JS, Python + SQL and PHP](https://dev.to/qroia/codewars-challenge-day-5-js-python-sql-and-php-nde)
 - [Codewars Challenge Day 4: ROT13](https://dev.to/qroia/codewars-challenge-day-4-rot13-5cg8)
 - [Codewars Challenge Day 3: Moving Zeros To The End](https://dev.to/qroia/codewars-challenge-day-3-moving-zeros-to-the-end-297j)
 - [Codewars Challenge Day2: Break camelCase](https://dev.to/qroia/codewars-challenge-day2-break-camelcase-4d3f)
-- [Codewars Day #1, 5kuy](https://dev.to/qroia/codewars-day-1-5kuy-1jca)
 <!-- BLOG-POST-LIST:END -->
 
 ### **My Configs**
