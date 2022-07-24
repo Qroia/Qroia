@@ -115,7 +115,7 @@ Linux                    1 hr 24 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/07/2022 18:48:03 UTC
+ Last Updated on 24/07/2022 18:49:39 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
