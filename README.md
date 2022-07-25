@@ -98,15 +98,13 @@ Sunday       11 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               1 hr 22 mins        ████████████████████████░   98.49% 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 24 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,7 +113,7 @@ Linux                    1 hr 24 mins        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2022 18:49:39 UTC
+ Last Updated on 25/07/2022 18:52:33 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
