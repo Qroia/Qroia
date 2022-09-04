@@ -63,57 +63,18 @@
 <h2 align="center"><b>My Stats<h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
-🌆 Daytime    17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
-🌃 Evening    94 commits     ████████████████████░░░░░   80.34% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-Tuesday      9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Wednesday    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Thursday     22 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.8% 
-Friday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
-Saturday     27 commits     █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Sunday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457%20Thousand%20lines%20of%20code-blue)
 
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:48:48 UTC
+ Last Updated on 04/09/2022 18:49:11 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
