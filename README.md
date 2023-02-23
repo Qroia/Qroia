@@ -67,35 +67,33 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-866%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-866.4%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning        3 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-🌆 Daytime       16 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-🌃 Evening       68 commits       ███████████████████░░░░░░   75.56 % 
-🌙 Night          3 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-
+🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+🌆 Daytime                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+🌃 Evening                68 commits          ███████████████████░░░░░░   75.56 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday           8 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Tuesday         10 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday       16 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Thursday        17 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Friday          14 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Saturday        17 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Sunday           8 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-
+Monday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Tuesday                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Wednesday                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Thursday                 17 commits          █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Friday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Saturday                 17 commits          █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Sunday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Moscow
+🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -105,15 +103,14 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Qroia/Qroia/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/Qroia/Qroia/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2023 18:41:55 UTC
+ Last Updated on 23/02/2023 18:42:59 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
