@@ -110,7 +110,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Qroia/Qroia/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2023 18:36:59 UTC
+ Last Updated on 12/11/2023 18:36:52 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
