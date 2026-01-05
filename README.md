@@ -63,11 +63,11 @@
 <h2 align="center"><b>My Stats<h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%206%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-871.34%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-871.34%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -110,7 +110,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Qroia/Qroia/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:51:28 UTC
+ Last Updated on 05/01/2026 18:56:19 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qroia&show_icons=true&theme=dark&locale=en&layout=compact" alt="qroia" /></p>
